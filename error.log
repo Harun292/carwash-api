@@ -1,0 +1,269 @@
+2022-02-04T20:49:44.483Z :: uncaughtException: corsOptions is not defined
+ReferenceError: corsOptions is not defined
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/index.js:18:14
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-04T20:50:10.662Z :: uncaughtException: port is not defined
+ReferenceError: port is not defined
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/index.js:34:27
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-04T20:50:58.311Z :: logger is not defined
+2022-02-04T20:50:58.843Z :: logger is not defined
+2022-02-04T20:52:15.865Z :: Page does not exist
+2022-02-04T20:52:16.004Z :: Page does not exist
+2022-02-04T20:53:13.195Z :: Page does not exist
+2022-02-04T20:55:39.327Z :: Page does not exist
+2022-02-04T20:55:42.584Z :: Page does not exist
+2022-02-04T20:56:10.108Z :: Invalid value
+2022-02-04T20:57:42.152Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:57:49.796Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:58:06.549Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:59:27.273Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:59:34.726Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:59:49.099Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:59:53.058Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:59:56.065Z :: Unexpected token - in JSON at position 0
+2022-02-04T21:00:15.210Z :: Unexpected token - in JSON at position 0
+2022-02-04T21:00:22.227Z :: Unexpected token - in JSON at position 0
+2022-02-04T21:01:04.559Z :: Invalid value
+2022-02-04T21:02:05.670Z :: Invalid value
+2022-02-04T21:06:26.076Z :: Invalid value
+2022-02-04T21:07:16.564Z :: Invalid value
+2022-02-04T21:08:25.892Z :: User.query is not a function
+2022-02-04T21:13:10.301Z :: User.query is not a function
+2022-02-04T21:21:55.590Z :: User.query is not a function
+2022-02-04T21:24:41.383Z :: User.query is not a function
+2022-02-04T21:33:14.500Z :: User.query is not a function
+2022-02-04T21:41:39.639Z :: User.query is not a function
+2022-02-04T21:44:41.325Z :: User.query is not a function
+2022-02-04T21:46:44.009Z :: User.query is not a function
+2022-02-04T21:47:24.082Z :: User.query is not a function
+2022-02-04T21:53:56.925Z :: User.query is not a function
+2022-02-04T21:55:53.352Z :: no database connection available for a query. You need to bind the model class or the query to a knex instance.
+2022-02-04T22:04:15.601Z :: no database connection available for a query. You need to bind the model class or the query to a knex instance.
+2022-02-04T22:08:42.577Z :: Incorrect email
+2022-02-04T22:13:33.572Z :: uncaughtException: devDatabase is not defined
+ReferenceError: devDatabase is not defined
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/index.js:14:12
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-05T12:01:53.939Z :: Failed to authenticate token
+2022-02-05T12:02:10.619Z :: Customer.query is not a function
+2022-02-05T12:13:11.510Z :: Customer.query is not a function
+2022-02-05T12:17:45.702Z :: visits: must be integer
+2022-02-05T12:18:49.882Z :: No token provided
+2022-02-05T12:19:30.278Z :: Incorrect email
+2022-02-05T12:19:54.358Z :: Incorrect email
+2022-02-05T12:20:25.503Z :: Wrong password provided
+2022-02-05T12:28:56.760Z :: Page does not exist
+2022-02-05T12:31:23.674Z :: Page does not exist
+2022-02-05T12:33:49.755Z :: re is not defined
+2022-02-05T12:40:38.027Z :: No token provided
+2022-02-05T12:40:54.453Z :: No token provided
+2022-02-05T12:50:58.091Z :: No token provided
+2022-02-05T12:51:14.083Z :: No token provided
+2022-02-05T12:51:23.962Z :: Failed to authenticate token
+2022-02-05T12:51:52.221Z :: No token provided
+2022-02-07T16:52:49.338Z :: Invalid value
+2022-02-07T16:56:39.892Z :: Invalid value
+2022-02-07T16:59:00.763Z :: Invalid value
+2022-02-07T17:01:24.381Z :: Invalid value
+2022-02-07T17:02:02.349Z :: Invalid value
+2022-02-07T17:02:48.206Z :: Invalid value
+2022-02-07T17:06:27.251Z :: Invalid value
+2022-02-08T14:23:56.900Z :: Invalid value
+2022-02-08T14:25:04.164Z :: Invalid value
+2022-02-08T14:25:44.508Z :: Invalid value
+2022-02-08T14:25:58.223Z :: Invalid value
+2022-02-08T14:26:17.883Z :: Invalid value
+2022-02-08T14:27:16.634Z :: Invalid value
+2022-02-08T15:52:35.388Z :: Incorrect email
+2022-02-08T15:52:42.081Z :: Incorrect email
+2022-02-08T15:55:33.274Z :: programs: must have required property 'programs', price: must have required property 'price'
+2022-02-08T15:58:14.699Z :: Page does not exist
+2022-02-08T15:58:40.996Z :: undefined passed as a property in argument #0 for 'where' operation. Call skipUndefined() method to ignore the undefined values.
+2022-02-08T15:59:49.980Z :: Page does not exist
+2022-02-08T15:59:56.642Z :: undefined passed as a property in argument #0 for 'where' operation. Call skipUndefined() method to ignore the undefined values.
+2022-02-08T16:17:17.876Z :: insert into "customers" ("email", "first_name", "last_name", "visits") values ($1, $2, $3, $4) returning "id" - duplicate key value violates unique constraint "customers_email_unique"
+2022-02-08T16:19:08.143Z :: unknown relation "bills" in a relation expression
+2022-02-08T16:22:25.891Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:22:44.130Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:23:56.573Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:24:47.756Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:29:04.763Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:29:31.586Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:30:10.483Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:32:44.889Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/za.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/za.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:33:15.468Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:34:40.813Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:35:21.221Z :: BaseModel is not defined
+2022-02-08T16:39:24.918Z :: BaseModel is not defined
+2022-02-08T16:40:21.363Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:42:00.158Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:42:35.710Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:44:51.945Z :: Failed to authenticate token
+2022-02-08T16:45:03.833Z :: visits: must be integer
+2022-02-08T17:46:56.300Z :: insert into "bills" ("price", "programs") values ($1, $2) returning "id" - null value in column "customer_id" of relation "bills" violates not-null constraint
+2022-02-08T18:12:46.840Z :: Model is not defined
+2022-02-08T18:12:48.424Z :: Model is not defined
+2022-02-08T18:13:29.888Z :: Model is not defined
+2022-02-08T18:17:10.499Z :: Model is not defined
+2022-02-08T18:18:16.105Z :: Customer.relationMappings.bills: __dirname is not defined
+2022-02-08T18:18:57.390Z :: uncaughtException: fileURLToPath is not defined
+ReferenceError: fileURLToPath is not defined
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/baseModel.js:2:20
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T18:19:05.194Z :: uncaughtException: fileURLToPath is not defined
+ReferenceError: fileURLToPath is not defined
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/baseModel.js:2:20
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T18:21:02.790Z :: Page does not exist
+2022-02-09T10:16:09.589Z :: Incorrect email
+2022-02-09T11:05:02.973Z :: price: must be integer
+2022-02-09T11:08:25.354Z :: price: must be integer
+2022-02-09T11:59:30.753Z :: uncaughtException: options.port should be >= 0 and < 65536. Received .
+RangeError [ERR_SOCKET_BAD_PORT]: options.port should be >= 0 and < 65536. Received .
+    at new NodeError (node:internal/errors:371:5)
+    at validatePort (node:internal/validators:216:11)
+    at Server.listen (node:net:1461:5)
+    at Function.listen (C:\Users\Hare\Desktop\carwash-api\node_modules\express\lib\application.js:618:24)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/index.js:34:20
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-09T11:59:41.628Z :: uncaughtException: options.port should be >= 0 and < 65536. Received .
+RangeError [ERR_SOCKET_BAD_PORT]: options.port should be >= 0 and < 65536. Received .
+    at new NodeError (node:internal/errors:371:5)
+    at validatePort (node:internal/validators:216:11)
+    at Server.listen (node:net:1461:5)
+    at Function.listen (C:\Users\Hare\Desktop\carwash-api\node_modules\express\lib\application.js:618:24)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/index.js:34:20
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)

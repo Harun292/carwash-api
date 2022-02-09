@@ -1,0 +1,878 @@
+2022-02-04T20:49:44.483Z :: uncaughtException: corsOptions is not defined
+ReferenceError: corsOptions is not defined
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/index.js:18:14
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-04T20:50:10.662Z :: uncaughtException: port is not defined
+ReferenceError: port is not defined
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/index.js:34:27
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-04T20:50:44.148Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T20:50:58.311Z :: logger is not defined
+2022-02-04T20:50:58.843Z :: logger is not defined
+2022-02-04T20:52:11.296Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T20:52:15.862Z :: GET /
+2022-02-04T20:52:15.865Z :: Page does not exist
+2022-02-04T20:52:16.002Z :: GET /favicon.ico
+2022-02-04T20:52:16.004Z :: Page does not exist
+2022-02-04T20:52:52.628Z :: GET /test
+2022-02-04T20:53:13.192Z :: GET /login
+2022-02-04T20:53:13.195Z :: Page does not exist
+2022-02-04T20:55:35.250Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T20:55:39.324Z :: GET /login
+2022-02-04T20:55:39.327Z :: Page does not exist
+2022-02-04T20:55:42.582Z :: GET /
+2022-02-04T20:55:42.584Z :: Page does not exist
+2022-02-04T20:56:10.092Z :: POST /login
+2022-02-04T20:56:10.108Z :: Invalid value
+2022-02-04T20:57:42.152Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:57:49.796Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:58:06.549Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:59:27.273Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:59:34.726Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:59:49.099Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:59:53.058Z :: Unexpected token - in JSON at position 0
+2022-02-04T20:59:56.065Z :: Unexpected token - in JSON at position 0
+2022-02-04T21:00:10.838Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T21:00:15.210Z :: Unexpected token - in JSON at position 0
+2022-02-04T21:00:22.227Z :: Unexpected token - in JSON at position 0
+2022-02-04T21:01:04.543Z :: POST /login
+2022-02-04T21:01:04.559Z :: Invalid value
+2022-02-04T21:02:05.621Z :: POST /login
+2022-02-04T21:02:05.670Z :: Invalid value
+2022-02-04T21:06:26.068Z :: POST /login
+2022-02-04T21:06:26.076Z :: Invalid value
+2022-02-04T21:07:14.417Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T21:07:16.528Z :: POST /login
+2022-02-04T21:07:16.564Z :: Invalid value
+2022-02-04T21:08:25.848Z :: POST /login
+2022-02-04T21:08:25.892Z :: User.query is not a function
+2022-02-04T21:13:07.808Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T21:13:10.254Z :: POST /login
+2022-02-04T21:13:10.301Z :: User.query is not a function
+2022-02-04T21:21:52.580Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T21:21:55.547Z :: POST /login
+2022-02-04T21:21:55.590Z :: User.query is not a function
+2022-02-04T21:23:26.908Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T21:24:28.283Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T21:24:41.324Z :: POST /login
+2022-02-04T21:24:41.383Z :: User.query is not a function
+2022-02-04T21:33:14.488Z :: POST /login
+2022-02-04T21:33:14.500Z :: User.query is not a function
+2022-02-04T21:40:24.001Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T21:41:39.566Z :: POST /login
+2022-02-04T21:41:39.639Z :: User.query is not a function
+2022-02-04T21:44:38.711Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T21:44:41.277Z :: POST /login
+2022-02-04T21:44:41.325Z :: User.query is not a function
+2022-02-04T21:46:22.123Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T21:46:43.951Z :: POST /login
+2022-02-04T21:46:44.009Z :: User.query is not a function
+2022-02-04T21:47:14.059Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T21:47:24.045Z :: POST /login
+2022-02-04T21:47:24.082Z :: User.query is not a function
+2022-02-04T21:53:43.476Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T21:53:56.878Z :: POST /login
+2022-02-04T21:53:56.925Z :: User.query is not a function
+2022-02-04T21:55:48.582Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T21:55:53.301Z :: POST /login
+2022-02-04T21:55:53.352Z :: no database connection available for a query. You need to bind the model class or the query to a knex instance.
+2022-02-04T22:04:11.390Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T22:04:15.541Z :: POST /login
+2022-02-04T22:04:15.601Z :: no database connection available for a query. You need to bind the model class or the query to a knex instance.
+2022-02-04T22:08:36.847Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T22:08:42.205Z :: POST /login
+2022-02-04T22:08:42.577Z :: Incorrect email
+2022-02-04T22:10:30.166Z :: POST /login
+2022-02-04T22:13:33.572Z :: uncaughtException: devDatabase is not defined
+ReferenceError: devDatabase is not defined
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/index.js:14:12
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-04T22:14:17.529Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-04T22:14:23.160Z :: POST /login
+2022-02-05T11:57:41.965Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-05T11:58:28.022Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-05T11:58:56.682Z :: POST /login
+2022-02-05T12:01:53.933Z :: POST /customers
+2022-02-05T12:01:53.939Z :: Failed to authenticate token
+2022-02-05T12:02:10.606Z :: POST /customers
+2022-02-05T12:02:10.619Z :: Customer.query is not a function
+2022-02-05T12:12:38.819Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-05T12:12:44.034Z :: POST /login
+2022-02-05T12:13:11.489Z :: POST /customers
+2022-02-05T12:13:11.510Z :: Customer.query is not a function
+2022-02-05T12:17:19.926Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-05T12:17:31.695Z :: POST /login
+2022-02-05T12:17:44.812Z :: POST /customers
+2022-02-05T12:17:45.702Z :: visits: must be integer
+2022-02-05T12:17:55.744Z :: POST /customers
+2022-02-05T12:18:34.630Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-05T12:18:49.877Z :: GET /customers
+2022-02-05T12:18:49.882Z :: No token provided
+2022-02-05T12:18:59.782Z :: GET /customers
+2022-02-05T12:19:30.212Z :: POST /login
+2022-02-05T12:19:30.278Z :: Incorrect email
+2022-02-05T12:19:37.285Z :: POST /login
+2022-02-05T12:19:54.348Z :: POST /login
+2022-02-05T12:19:54.358Z :: Incorrect email
+2022-02-05T12:20:25.492Z :: POST /login
+2022-02-05T12:20:25.503Z :: Wrong password provided
+2022-02-05T12:20:30.823Z :: POST /login
+2022-02-05T12:21:48.107Z :: POST /login
+2022-02-05T12:22:52.100Z :: POST /login
+2022-02-05T12:23:23.513Z :: POST /login
+2022-02-05T12:28:56.757Z :: PATCH /customers/
+2022-02-05T12:28:56.760Z :: Page does not exist
+2022-02-05T12:31:23.671Z :: PATCH /customers/
+2022-02-05T12:31:23.674Z :: Page does not exist
+2022-02-05T12:31:35.796Z :: PATCH /customers/1
+2022-02-05T12:31:57.203Z :: POST /customers
+2022-02-05T12:32:01.341Z :: PATCH /customers/1
+2022-02-05T12:33:47.102Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-05T12:33:49.248Z :: PATCH /customers/1
+2022-02-05T12:33:49.755Z :: re is not defined
+2022-02-05T12:34:03.610Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-05T12:34:06.540Z :: PATCH /customers/1
+2022-02-05T12:34:26.743Z :: PATCH /customers/2
+2022-02-05T12:34:55.331Z :: PATCH /customers/1
+2022-02-05T12:40:38.022Z :: PATCH /customers/1
+2022-02-05T12:40:38.027Z :: No token provided
+2022-02-05T12:40:54.451Z :: POST /customers
+2022-02-05T12:40:54.453Z :: No token provided
+2022-02-05T12:50:33.125Z :: Klika-expenses-tracker-api is listening on port 3000
+2022-02-05T12:50:50.235Z :: POST /login
+2022-02-05T12:50:58.087Z :: POST /customers
+2022-02-05T12:50:58.091Z :: No token provided
+2022-02-05T12:51:14.079Z :: POST /customers
+2022-02-05T12:51:14.083Z :: No token provided
+2022-02-05T12:51:23.942Z :: POST /customers
+2022-02-05T12:51:23.962Z :: Failed to authenticate token
+2022-02-05T12:51:40.790Z :: POST /customers
+2022-02-05T12:51:52.219Z :: PATCH /customers/2
+2022-02-05T12:51:52.221Z :: No token provided
+2022-02-05T12:51:56.554Z :: PATCH /customers/2
+2022-02-05T12:52:07.430Z :: PATCH /customers/2
+2022-02-06T22:53:44.338Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-06T22:54:04.672Z :: OPTIONS /api/v1/login
+2022-02-06T22:56:06.770Z :: OPTIONS /api/v1/login
+2022-02-06T22:56:18.530Z :: OPTIONS /api/v1/login
+2022-02-06T22:56:38.197Z :: OPTIONS /api/v1/login
+2022-02-06T22:59:38.603Z :: POST /api/v1/login
+2022-02-06T23:04:06.057Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-06T23:04:08.870Z :: POST /api/v1/login
+2022-02-06T23:11:20.513Z :: POST /api/v1/login
+2022-02-06T23:34:31.152Z :: POST /api/v1/login
+2022-02-06T23:57:09.097Z :: POST /api/v1/login
+2022-02-07T00:00:46.355Z :: POST /api/v1/login
+2022-02-07T16:42:30.016Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-07T16:42:45.466Z :: POST /api/v1/login
+2022-02-07T16:45:20.920Z :: GET /api/v1/customers
+2022-02-07T16:45:53.418Z :: POST /api/v1/login
+2022-02-07T16:45:53.770Z :: GET /api/v1/customers
+2022-02-07T16:49:31.784Z :: DELETE /api/v1/customers/3
+2022-02-07T16:49:38.063Z :: GET /api/v1/customers
+2022-02-07T16:52:22.093Z :: GET /api/v1/customers
+2022-02-07T16:52:49.330Z :: POST /api/v1/customers
+2022-02-07T16:52:49.338Z :: Invalid value
+2022-02-07T16:54:11.615Z :: GET /api/v1/customers
+2022-02-07T16:54:52.869Z :: GET /api/v1/customers
+2022-02-07T16:55:17.422Z :: GET /api/v1/customers
+2022-02-07T16:55:52.607Z :: GET /api/v1/customers
+2022-02-07T16:55:55.684Z :: GET /api/v1/customers
+2022-02-07T16:56:39.884Z :: POST /api/v1/customers
+2022-02-07T16:56:39.892Z :: Invalid value
+2022-02-07T16:58:25.379Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-07T16:59:00.745Z :: POST /api/v1/customers
+2022-02-07T16:59:00.763Z :: Invalid value
+2022-02-07T17:01:13.699Z :: GET /api/v1/customers
+2022-02-07T17:01:24.374Z :: POST /api/v1/customers
+2022-02-07T17:01:24.381Z :: Invalid value
+2022-02-07T17:01:53.132Z :: GET /api/v1/customers
+2022-02-07T17:02:02.339Z :: POST /api/v1/customers
+2022-02-07T17:02:02.349Z :: Invalid value
+2022-02-07T17:02:42.111Z :: GET /api/v1/customers
+2022-02-07T17:02:48.199Z :: POST /api/v1/customers
+2022-02-07T17:02:48.206Z :: Invalid value
+2022-02-07T17:03:04.559Z :: GET /api/v1/customers
+2022-02-07T17:03:12.319Z :: GET /api/v1/customers
+2022-02-07T17:06:19.659Z :: GET /api/v1/customers
+2022-02-07T17:06:19.808Z :: GET /api/v1/customers
+2022-02-07T17:06:27.247Z :: POST /api/v1/customers
+2022-02-07T17:06:27.251Z :: Invalid value
+2022-02-07T17:09:20.288Z :: GET /api/v1/customers
+2022-02-07T17:09:28.888Z :: POST /api/v1/customers
+2022-02-07T17:09:30.394Z :: GET /api/v1/customers
+2022-02-07T17:14:11.458Z :: GET /api/v1/customers
+2022-02-07T17:16:09.688Z :: GET /api/v1/customers
+2022-02-07T17:16:37.014Z :: GET /api/v1/customers
+2022-02-07T17:16:45.706Z :: GET /api/v1/customers
+2022-02-07T17:17:40.880Z :: GET /api/v1/customers
+2022-02-07T17:20:46.538Z :: GET /api/v1/customers
+2022-02-07T17:21:00.235Z :: PATCH /api/v1/customers/2
+2022-02-07T17:21:00.621Z :: GET /api/v1/customers
+2022-02-07T17:22:14.057Z :: GET /api/v1/customers
+2022-02-07T17:22:18.484Z :: PATCH /api/v1/customers/4
+2022-02-07T17:22:18.545Z :: GET /api/v1/customers
+2022-02-07T17:22:27.250Z :: DELETE /api/v1/customers/2
+2022-02-07T17:23:01.517Z :: POST /api/v1/customers
+2022-02-07T17:23:01.561Z :: GET /api/v1/customers
+2022-02-07T17:24:07.166Z :: GET /api/v1/customers
+2022-02-07T17:24:59.542Z :: GET /api/v1/customers
+2022-02-07T17:25:18.063Z :: POST /api/v1/customers
+2022-02-07T17:25:18.137Z :: GET /api/v1/customers
+2022-02-07T17:25:37.702Z :: GET /api/v1/customers
+2022-02-07T17:26:01.690Z :: GET /api/v1/customers
+2022-02-07T17:26:21.090Z :: DELETE /api/v1/customers/4
+2022-02-07T17:26:23.026Z :: DELETE /api/v1/customers/5
+2022-02-07T17:26:24.700Z :: DELETE /api/v1/customers/6
+2022-02-07T17:26:32.663Z :: POST /api/v1/customers
+2022-02-07T17:26:32.721Z :: GET /api/v1/customers
+2022-02-07T17:26:41.465Z :: POST /api/v1/customers
+2022-02-07T17:26:41.515Z :: GET /api/v1/customers
+2022-02-07T17:29:56.505Z :: GET /api/v1/customers
+2022-02-07T17:29:56.682Z :: GET /api/v1/customers
+2022-02-07T17:36:10.869Z :: GET /api/v1/customers
+2022-02-07T17:37:28.991Z :: GET /api/v1/customers
+2022-02-07T18:25:17.318Z :: POST /api/v1/login
+2022-02-07T18:25:19.190Z :: GET /api/v1/customers
+2022-02-07T18:28:12.039Z :: GET /api/v1/customers
+2022-02-07T18:28:22.980Z :: GET /api/v1/customers
+2022-02-07T18:39:57.989Z :: GET /api/v1/customers
+2022-02-07T18:40:02.498Z :: GET /api/v1/customers
+2022-02-07T18:42:08.507Z :: GET /api/v1/customers
+2022-02-07T18:42:08.802Z :: GET /api/v1/customers
+2022-02-07T18:42:55.721Z :: GET /api/v1/customers
+2022-02-07T18:42:56.903Z :: GET /api/v1/customers
+2022-02-07T18:43:12.831Z :: GET /api/v1/customers
+2022-02-07T18:44:56.186Z :: GET /api/v1/customers
+2022-02-07T18:45:13.990Z :: GET /api/v1/customers
+2022-02-07T18:49:20.425Z :: GET /api/v1/customers
+2022-02-07T18:52:47.791Z :: GET /api/v1/customers
+2022-02-07T18:53:51.601Z :: GET /api/v1/customers
+2022-02-07T18:54:29.358Z :: GET /api/v1/customers
+2022-02-07T18:54:55.506Z :: GET /api/v1/customers
+2022-02-07T18:55:01.619Z :: GET /api/v1/customers
+2022-02-07T18:55:06.857Z :: GET /api/v1/customers
+2022-02-07T18:56:56.584Z :: GET /api/v1/customers
+2022-02-07T19:00:33.437Z :: GET /api/v1/customers
+2022-02-08T11:58:03.032Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-08T13:03:19.368Z :: POST /api/v1/login
+2022-02-08T13:03:21.870Z :: GET /api/v1/customers
+2022-02-08T13:04:22.184Z :: GET /api/v1/customers
+2022-02-08T13:06:06.501Z :: GET /api/v1/customers
+2022-02-08T13:06:21.785Z :: GET /api/v1/customers
+2022-02-08T13:07:31.778Z :: GET /api/v1/customers
+2022-02-08T13:10:52.229Z :: GET /api/v1/customers
+2022-02-08T13:10:54.575Z :: GET /api/v1/customers
+2022-02-08T13:10:59.386Z :: GET /api/v1/customers
+2022-02-08T13:11:50.933Z :: GET /api/v1/customers
+2022-02-08T13:12:52.512Z :: GET /api/v1/customers
+2022-02-08T13:14:02.471Z :: GET /api/v1/customers
+2022-02-08T13:15:00.779Z :: GET /api/v1/customers
+2022-02-08T13:17:25.777Z :: GET /api/v1/customers
+2022-02-08T13:17:46.477Z :: GET /api/v1/customers
+2022-02-08T13:19:34.790Z :: GET /api/v1/customers
+2022-02-08T13:23:24.834Z :: GET /api/v1/customers
+2022-02-08T13:25:56.555Z :: GET /api/v1/customers
+2022-02-08T13:26:19.478Z :: GET /api/v1/customers
+2022-02-08T13:27:40.780Z :: GET /api/v1/customers
+2022-02-08T13:27:51.825Z :: GET /api/v1/customers
+2022-02-08T13:34:30.776Z :: GET /api/v1/customers
+2022-02-08T13:42:30.758Z :: GET /api/v1/customers
+2022-02-08T13:42:38.860Z :: GET /api/v1/customers
+2022-02-08T13:44:08.775Z :: GET /api/v1/customers
+2022-02-08T13:44:21.547Z :: GET /api/v1/customers
+2022-02-08T13:47:19.896Z :: GET /api/v1/customers
+2022-02-08T13:47:27.245Z :: GET /api/v1/customers
+2022-02-08T13:48:12.748Z :: GET /api/v1/customers
+2022-02-08T13:54:16.756Z :: GET /api/v1/customers
+2022-02-08T13:54:41.135Z :: GET /api/v1/customers
+2022-02-08T13:54:46.677Z :: GET /api/v1/customers
+2022-02-08T14:03:52.009Z :: GET /api/v1/customers
+2022-02-08T14:04:27.430Z :: GET /api/v1/customers
+2022-02-08T14:04:35.906Z :: GET /api/v1/customers
+2022-02-08T14:04:53.700Z :: GET /api/v1/customers
+2022-02-08T14:07:55.508Z :: GET /api/v1/customers
+2022-02-08T14:08:03.830Z :: GET /api/v1/customers
+2022-02-08T14:12:26.795Z :: GET /api/v1/customers
+2022-02-08T14:12:30.368Z :: GET /api/v1/customers
+2022-02-08T14:12:39.532Z :: GET /api/v1/customers
+2022-02-08T14:15:21.361Z :: GET /api/v1/customers
+2022-02-08T14:15:26.921Z :: GET /api/v1/customers
+2022-02-08T14:15:30.399Z :: GET /api/v1/customers
+2022-02-08T14:17:51.266Z :: GET /api/v1/customers
+2022-02-08T14:18:04.925Z :: GET /api/v1/customers
+2022-02-08T14:18:42.813Z :: GET /api/v1/customers
+2022-02-08T14:19:09.175Z :: GET /api/v1/customers
+2022-02-08T14:19:34.860Z :: GET /api/v1/customers
+2022-02-08T14:19:47.759Z :: GET /api/v1/customers
+2022-02-08T14:19:59.519Z :: GET /api/v1/customers
+2022-02-08T14:20:05.661Z :: GET /api/v1/customers
+2022-02-08T14:20:31.844Z :: GET /api/v1/customers
+2022-02-08T14:23:56.698Z :: PATCH /api/v1/customers/7
+2022-02-08T14:23:56.900Z :: Invalid value
+2022-02-08T14:24:59.565Z :: GET /api/v1/customers
+2022-02-08T14:25:04.141Z :: PATCH /api/v1/customers/7
+2022-02-08T14:25:04.164Z :: Invalid value
+2022-02-08T14:25:41.427Z :: GET /api/v1/customers
+2022-02-08T14:25:44.503Z :: PATCH /api/v1/customers/7
+2022-02-08T14:25:44.508Z :: Invalid value
+2022-02-08T14:25:52.430Z :: GET /api/v1/customers
+2022-02-08T14:25:58.220Z :: PATCH /api/v1/customers/7
+2022-02-08T14:25:58.223Z :: Invalid value
+2022-02-08T14:26:13.967Z :: GET /api/v1/customers
+2022-02-08T14:26:17.870Z :: PATCH /api/v1/customers/7
+2022-02-08T14:26:17.883Z :: Invalid value
+2022-02-08T14:27:16.630Z :: PATCH /api/v1/customers/7
+2022-02-08T14:27:16.634Z :: Invalid value
+2022-02-08T14:29:38.595Z :: GET /api/v1/customers
+2022-02-08T14:29:40.922Z :: GET /api/v1/customers
+2022-02-08T14:29:45.173Z :: PATCH /api/v1/customers/7
+2022-02-08T14:30:03.994Z :: GET /api/v1/customers
+2022-02-08T14:31:48.900Z :: GET /api/v1/customers
+2022-02-08T14:31:54.221Z :: PATCH /api/v1/customers/7
+2022-02-08T14:36:59.760Z :: GET /api/v1/customers
+2022-02-08T14:37:04.296Z :: GET /api/v1/customers
+2022-02-08T14:37:08.910Z :: PATCH /api/v1/customers/7
+2022-02-08T14:37:31.925Z :: GET /api/v1/customers
+2022-02-08T14:37:39.474Z :: PATCH /api/v1/customers/7
+2022-02-08T14:37:39.908Z :: GET /api/v1/customers
+2022-02-08T14:37:49.103Z :: GET /api/v1/customers
+2022-02-08T14:38:11.467Z :: GET /api/v1/customers
+2022-02-08T14:38:16.685Z :: PATCH /api/v1/customers/8
+2022-02-08T14:38:16.759Z :: GET /api/v1/customers
+2022-02-08T14:41:30.636Z :: GET /api/v1/customers
+2022-02-08T14:44:02.805Z :: GET /api/v1/customers
+2022-02-08T14:45:15.553Z :: GET /api/v1/customers
+2022-02-08T14:45:55.221Z :: GET /api/v1/customers
+2022-02-08T14:48:14.070Z :: GET /api/v1/customers
+2022-02-08T14:48:37.964Z :: GET /api/v1/customers
+2022-02-08T14:49:07.527Z :: PATCH /api/v1/customers/8
+2022-02-08T14:49:07.595Z :: GET /api/v1/customers
+2022-02-08T14:49:15.942Z :: GET /api/v1/customers
+2022-02-08T14:50:58.519Z :: GET /api/v1/customers
+2022-02-08T14:51:14.792Z :: GET /api/v1/customers
+2022-02-08T15:11:24.936Z :: GET /api/v1/customers
+2022-02-08T15:11:31.246Z :: GET /api/v1/customers
+2022-02-08T15:12:15.118Z :: PATCH /api/v1/customers/7
+2022-02-08T15:12:15.239Z :: GET /api/v1/customers
+2022-02-08T15:52:11.564Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-08T15:52:35.124Z :: POST /api/v1/login
+2022-02-08T15:52:35.388Z :: Incorrect email
+2022-02-08T15:52:42.050Z :: POST /api/v1/login
+2022-02-08T15:52:42.081Z :: Incorrect email
+2022-02-08T15:53:03.050Z :: POST /api/v1/login
+2022-02-08T15:53:50.004Z :: POST /customers
+2022-02-08T15:55:33.254Z :: POST /bills
+2022-02-08T15:55:33.274Z :: programs: must have required property 'programs', price: must have required property 'price'
+2022-02-08T15:56:58.492Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-08T15:57:01.571Z :: POST /bills
+2022-02-08T15:57:36.507Z :: POST /bills
+2022-02-08T15:57:40.645Z :: POST /bills
+2022-02-08T15:58:14.696Z :: GET /bills/1
+2022-02-08T15:58:14.699Z :: Page does not exist
+2022-02-08T15:58:40.989Z :: GET /bills
+2022-02-08T15:58:40.996Z :: undefined passed as a property in argument #0 for 'where' operation. Call skipUndefined() method to ignore the undefined values.
+2022-02-08T15:59:39.401Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-08T15:59:49.976Z :: GET /bills/1
+2022-02-08T15:59:49.980Z :: Page does not exist
+2022-02-08T15:59:56.627Z :: GET /bills
+2022-02-08T15:59:56.642Z :: undefined passed as a property in argument #0 for 'where' operation. Call skipUndefined() method to ignore the undefined values.
+2022-02-08T16:05:46.135Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-08T16:06:03.057Z :: GET /bills/1
+2022-02-08T16:17:16.840Z :: POST /customers
+2022-02-08T16:17:17.876Z :: insert into "customers" ("email", "first_name", "last_name", "visits") values ($1, $2, $3, $4) returning "id" - duplicate key value violates unique constraint "customers_email_unique"
+2022-02-08T16:17:31.112Z :: GET /customers
+2022-02-08T16:17:51.648Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-08T16:17:58.540Z :: GET /customers
+2022-02-08T16:19:04.365Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-08T16:19:08.116Z :: GET /customers
+2022-02-08T16:19:08.143Z :: unknown relation "bills" in a relation expression
+2022-02-08T16:22:25.891Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:22:44.130Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:23:56.573Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:24:47.756Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:29:04.763Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:29:31.586Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:30:10.483Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:31:27.256Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-08T16:32:44.889Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/za.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/za.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:33:15.468Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:34:40.813Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:35:07.599Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-08T16:35:21.192Z :: GET /customers
+2022-02-08T16:35:21.221Z :: BaseModel is not defined
+2022-02-08T16:39:24.910Z :: GET /customers
+2022-02-08T16:39:24.918Z :: BaseModel is not defined
+2022-02-08T16:40:21.363Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:42:00.158Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:42:35.710Z :: uncaughtException: Cannot access 'Customer' before initialization
+ReferenceError: Cannot access 'Customer' before initialization
+    at Function.<static_initializer> (file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:24:23)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/bill.js:3:35
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T16:43:46.698Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-08T16:43:50.473Z :: GET /customers
+2022-02-08T16:44:51.941Z :: POST /customers
+2022-02-08T16:44:51.945Z :: Failed to authenticate token
+2022-02-08T16:45:02.988Z :: POST /customers
+2022-02-08T16:45:03.833Z :: visits: must be integer
+2022-02-08T16:45:12.052Z :: POST /customers
+2022-02-08T16:45:44.687Z :: POST /customers
+2022-02-08T16:46:01.035Z :: GET /bills/3
+2022-02-08T16:46:04.894Z :: GET /customers
+2022-02-08T16:46:32.611Z :: GET /api/v1/customers
+2022-02-08T16:57:20.790Z :: GET /api/v1/customers
+2022-02-08T17:01:19.866Z :: GET /api/v1/customers
+2022-02-08T17:02:21.569Z :: GET /api/v1/customers
+2022-02-08T17:09:51.503Z :: GET /api/v1/customers
+2022-02-08T17:10:17.454Z :: GET /api/v1/customers
+2022-02-08T17:11:09.876Z :: GET /api/v1/customers
+2022-02-08T17:11:38.710Z :: GET /api/v1/customers
+2022-02-08T17:25:17.943Z :: GET /api/v1/customers
+2022-02-08T17:25:41.786Z :: GET /api/v1/customers
+2022-02-08T17:25:46.617Z :: GET /api/v1/customers
+2022-02-08T17:26:40.180Z :: GET /api/v1/customers
+2022-02-08T17:27:08.557Z :: GET /api/v1/customers
+2022-02-08T17:27:23.221Z :: GET /api/v1/customers
+2022-02-08T17:29:58.217Z :: GET /api/v1/customers
+2022-02-08T17:31:07.273Z :: GET /api/v1/customers
+2022-02-08T17:32:47.087Z :: GET /api/v1/customers
+2022-02-08T17:34:16.831Z :: GET /api/v1/customers
+2022-02-08T17:41:45.039Z :: GET /api/v1/customers
+2022-02-08T17:44:51.877Z :: GET /api/v1/customers
+2022-02-08T17:46:48.127Z :: GET /api/v1/customers
+2022-02-08T17:46:55.771Z :: POST /api/v1/bills
+2022-02-08T17:46:56.300Z :: insert into "bills" ("price", "programs") values ($1, $2) returning "id" - null value in column "customer_id" of relation "bills" violates not-null constraint
+2022-02-08T17:47:29.782Z :: GET /api/v1/customers
+2022-02-08T17:47:42.165Z :: GET /api/v1/customers
+2022-02-08T17:47:48.446Z :: POST /api/v1/bills
+2022-02-08T17:48:22.974Z :: GET /api/v1/customers
+2022-02-08T17:48:29.744Z :: POST /api/v1/bills
+2022-02-08T17:48:29.793Z :: GET /api/v1/customers
+2022-02-08T17:52:47.795Z :: GET /api/v1/customers
+2022-02-08T17:52:56.728Z :: POST /api/v1/bills
+2022-02-08T17:52:56.734Z :: PATCH /api/v1/customers/1
+2022-02-08T17:52:57.159Z :: GET /api/v1/customers
+2022-02-08T17:53:08.250Z :: GET /api/v1/customers
+2022-02-08T17:53:50.124Z :: GET /api/v1/customers
+2022-02-08T17:53:54.178Z :: PATCH /api/v1/customers/1
+2022-02-08T17:53:54.187Z :: GET /api/v1/customers
+2022-02-08T17:53:54.359Z :: POST /api/v1/bills
+2022-02-08T17:53:54.408Z :: GET /api/v1/customers
+2022-02-08T17:55:14.971Z :: GET /api/v1/customers
+2022-02-08T17:55:18.240Z :: GET /api/v1/customers
+2022-02-08T17:55:18.248Z :: PATCH /api/v1/customers/4
+2022-02-08T17:55:18.355Z :: POST /api/v1/bills
+2022-02-08T17:55:18.432Z :: GET /api/v1/customers
+2022-02-08T17:59:33.135Z :: GET /api/v1/customers
+2022-02-08T17:59:49.307Z :: POST /api/v1/customers
+2022-02-08T17:59:49.642Z :: GET /api/v1/customers
+2022-02-08T18:00:17.268Z :: PATCH /api/v1/customers/5
+2022-02-08T18:00:17.340Z :: GET /api/v1/customers
+2022-02-08T18:00:26.476Z :: PATCH /api/v1/customers/5
+2022-02-08T18:00:26.486Z :: GET /api/v1/customers
+2022-02-08T18:00:26.518Z :: POST /api/v1/bills
+2022-02-08T18:00:26.612Z :: GET /api/v1/customers
+2022-02-08T18:00:37.437Z :: PATCH /api/v1/customers/5
+2022-02-08T18:00:37.446Z :: GET /api/v1/customers
+2022-02-08T18:00:37.500Z :: POST /api/v1/bills
+2022-02-08T18:00:37.605Z :: GET /api/v1/customers
+2022-02-08T18:11:11.593Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-08T18:12:46.760Z :: GET /api/v1/customers
+2022-02-08T18:12:46.840Z :: Model is not defined
+2022-02-08T18:12:48.418Z :: GET /api/v1/customers
+2022-02-08T18:12:48.424Z :: Model is not defined
+2022-02-08T18:13:29.883Z :: GET /api/v1/customers
+2022-02-08T18:13:29.888Z :: Model is not defined
+2022-02-08T18:17:09.510Z :: POST /api/v1/login
+2022-02-08T18:17:10.492Z :: GET /api/v1/customers
+2022-02-08T18:17:10.499Z :: Model is not defined
+2022-02-08T18:18:13.044Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-08T18:18:16.079Z :: GET /api/v1/customers
+2022-02-08T18:18:16.105Z :: Customer.relationMappings.bills: __dirname is not defined
+2022-02-08T18:18:57.390Z :: uncaughtException: fileURLToPath is not defined
+ReferenceError: fileURLToPath is not defined
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/baseModel.js:2:20
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T18:19:05.194Z :: uncaughtException: fileURLToPath is not defined
+ReferenceError: fileURLToPath is not defined
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/models/baseModel.js:2:20
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-08T18:19:36.245Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-08T18:19:38.169Z :: GET /api/v1/customers
+2022-02-08T18:19:46.204Z :: POST /api/v1/customers
+2022-02-08T18:19:47.205Z :: GET /api/v1/customers
+2022-02-08T18:19:59.785Z :: PATCH /api/v1/customers/1
+2022-02-08T18:19:59.842Z :: GET /api/v1/customers
+2022-02-08T18:20:00.052Z :: POST /api/v1/bills
+2022-02-08T18:20:00.240Z :: GET /api/v1/customers
+2022-02-08T18:21:02.786Z :: GET /customers/1
+2022-02-08T18:21:02.790Z :: Page does not exist
+2022-02-08T18:22:56.477Z :: GET /customers
+2022-02-08T18:23:11.497Z :: GET /api/v1/customers
+2022-02-08T18:24:18.507Z :: GET /api/v1/customers
+2022-02-08T18:29:23.491Z :: PATCH /api/v1/customers/1
+2022-02-08T18:29:23.537Z :: GET /api/v1/customers
+2022-02-08T18:29:23.561Z :: POST /api/v1/bills
+2022-02-08T18:29:23.712Z :: GET /api/v1/customers
+2022-02-08T18:51:17.374Z :: PATCH /api/v1/customers/1
+2022-02-08T18:51:17.445Z :: GET /api/v1/customers
+2022-02-08T18:51:17.479Z :: POST /api/v1/bills
+2022-02-08T18:51:17.534Z :: GET /api/v1/customers
+2022-02-08T18:53:11.469Z :: GET /api/v1/customers
+2022-02-08T19:14:48.071Z :: GET /api/v1/customers
+2022-02-08T19:15:00.796Z :: POST /api/v1/customers
+2022-02-08T19:15:00.929Z :: GET /api/v1/customers
+2022-02-09T10:11:13.727Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-09T10:16:08.751Z :: POST /api/v1/login
+2022-02-09T10:16:09.589Z :: Incorrect email
+2022-02-09T10:16:14.342Z :: POST /api/v1/login
+2022-02-09T10:16:15.173Z :: GET /api/v1/customers
+2022-02-09T10:16:21.139Z :: PATCH /api/v1/customers/1
+2022-02-09T10:16:21.992Z :: GET /api/v1/customers
+2022-02-09T10:16:22.095Z :: POST /api/v1/bills
+2022-02-09T10:16:22.184Z :: GET /api/v1/customers
+2022-02-09T10:16:29.006Z :: PATCH /api/v1/customers/2
+2022-02-09T10:16:29.018Z :: GET /api/v1/customers
+2022-02-09T10:16:29.094Z :: POST /api/v1/bills
+2022-02-09T10:16:29.143Z :: GET /api/v1/customers
+2022-02-09T10:16:39.115Z :: POST /api/v1/customers
+2022-02-09T10:16:39.166Z :: GET /api/v1/customers
+2022-02-09T10:17:08.212Z :: GET /api/v1/customers
+2022-02-09T10:17:21.539Z :: POST /api/v1/customers
+2022-02-09T10:17:21.681Z :: GET /api/v1/customers
+2022-02-09T10:17:57.452Z :: GET /api/v1/customers
+2022-02-09T10:18:02.041Z :: GET /api/v1/customers
+2022-02-09T10:18:02.052Z :: PATCH /api/v1/customers/2
+2022-02-09T10:18:02.141Z :: POST /api/v1/bills
+2022-02-09T10:18:02.189Z :: GET /api/v1/customers
+2022-02-09T10:22:26.675Z :: GET /api/v1/customers
+2022-02-09T10:22:32.156Z :: PATCH /api/v1/customers/4
+2022-02-09T10:22:32.166Z :: GET /api/v1/customers
+2022-02-09T10:22:32.282Z :: POST /api/v1/bills
+2022-02-09T10:22:32.341Z :: GET /api/v1/customers
+2022-02-09T10:22:37.490Z :: PATCH /api/v1/customers/2
+2022-02-09T10:22:37.497Z :: GET /api/v1/customers
+2022-02-09T10:22:37.580Z :: POST /api/v1/bills
+2022-02-09T10:22:37.649Z :: GET /api/v1/customers
+2022-02-09T10:23:05.503Z :: PATCH /api/v1/customers/4
+2022-02-09T10:23:05.629Z :: GET /api/v1/customers
+2022-02-09T10:23:14.176Z :: DELETE /api/v1/customers/3
+2022-02-09T10:23:47.349Z :: GET /api/v1/customers
+2022-02-09T10:23:52.404Z :: PATCH /api/v1/customers/1
+2022-02-09T10:23:52.412Z :: GET /api/v1/customers
+2022-02-09T10:23:52.483Z :: POST /api/v1/bills
+2022-02-09T10:23:52.532Z :: GET /api/v1/customers
+2022-02-09T10:24:05.244Z :: GET /api/v1/customers
+2022-02-09T10:24:09.734Z :: GET /api/v1/customers
+2022-02-09T10:24:09.754Z :: PATCH /api/v1/customers/2
+2022-02-09T10:24:09.837Z :: POST /api/v1/bills
+2022-02-09T10:24:09.883Z :: GET /api/v1/customers
+2022-02-09T10:24:29.877Z :: GET /api/v1/customers
+2022-02-09T10:24:34.076Z :: GET /api/v1/customers
+2022-02-09T10:24:34.083Z :: PATCH /api/v1/customers/1
+2022-02-09T10:24:34.159Z :: POST /api/v1/bills
+2022-02-09T10:24:34.211Z :: GET /api/v1/customers
+2022-02-09T10:24:45.914Z :: GET /api/v1/customers
+2022-02-09T10:24:55.510Z :: PATCH /api/v1/customers/1
+2022-02-09T10:24:55.518Z :: GET /api/v1/customers
+2022-02-09T10:24:55.541Z :: POST /api/v1/bills
+2022-02-09T10:24:55.664Z :: GET /api/v1/customers
+2022-02-09T10:25:23.516Z :: GET /api/v1/customers
+2022-02-09T10:25:27.649Z :: GET /api/v1/customers
+2022-02-09T10:25:27.656Z :: PATCH /api/v1/customers/2
+2022-02-09T10:25:27.752Z :: POST /api/v1/bills
+2022-02-09T10:25:27.824Z :: GET /api/v1/customers
+2022-02-09T10:26:03.337Z :: GET /api/v1/customers
+2022-02-09T10:26:29.322Z :: GET /api/v1/customers
+2022-02-09T10:26:41.189Z :: GET /api/v1/customers
+2022-02-09T10:39:42.572Z :: GET /api/v1/customers
+2022-02-09T10:40:33.953Z :: GET /api/v1/customers
+2022-02-09T10:41:37.259Z :: GET /api/v1/customers
+2022-02-09T10:42:24.044Z :: GET /api/v1/customers
+2022-02-09T10:45:03.168Z :: GET /api/v1/customers
+2022-02-09T10:48:41.085Z :: GET /api/v1/customers
+2022-02-09T10:49:11.024Z :: GET /api/v1/customers
+2022-02-09T10:49:11.765Z :: GET /api/v1/customers
+2022-02-09T10:59:59.786Z :: GET /api/v1/customers
+2022-02-09T11:04:32.365Z :: GET /api/v1/customers
+2022-02-09T11:04:32.392Z :: GET /api/v1/customers
+2022-02-09T11:04:41.408Z :: GET /api/v1/customers
+2022-02-09T11:04:41.430Z :: GET /api/v1/customers
+2022-02-09T11:04:44.144Z :: GET /api/v1/customers
+2022-02-09T11:04:54.062Z :: PATCH /api/v1/customers/1
+2022-02-09T11:04:54.071Z :: GET /api/v1/customers
+2022-02-09T11:04:54.093Z :: POST /api/v1/bills
+2022-02-09T11:04:54.215Z :: GET /api/v1/customers
+2022-02-09T11:04:57.756Z :: PATCH /api/v1/customers/1
+2022-02-09T11:04:57.764Z :: GET /api/v1/customers
+2022-02-09T11:04:57.876Z :: POST /api/v1/bills
+2022-02-09T11:04:57.941Z :: GET /api/v1/customers
+2022-02-09T11:05:02.879Z :: PATCH /api/v1/customers/1
+2022-02-09T11:05:02.887Z :: GET /api/v1/customers
+2022-02-09T11:05:02.968Z :: POST /api/v1/bills
+2022-02-09T11:05:02.973Z :: price: must be integer
+2022-02-09T11:07:20.369Z :: GET /api/v1/customers
+2022-02-09T11:07:20.416Z :: GET /api/v1/customers
+2022-02-09T11:07:45.204Z :: GET /api/v1/customers
+2022-02-09T11:07:46.449Z :: GET /api/v1/customers
+2022-02-09T11:07:57.810Z :: GET /api/v1/customers
+2022-02-09T11:08:01.910Z :: GET /api/v1/customers
+2022-02-09T11:08:01.916Z :: PATCH /api/v1/customers/1
+2022-02-09T11:08:02.012Z :: POST /api/v1/bills
+2022-02-09T11:08:02.064Z :: GET /api/v1/customers
+2022-02-09T11:08:10.733Z :: PATCH /api/v1/customers/2
+2022-02-09T11:08:10.742Z :: GET /api/v1/customers
+2022-02-09T11:08:10.838Z :: POST /api/v1/bills
+2022-02-09T11:08:10.888Z :: GET /api/v1/customers
+2022-02-09T11:08:14.337Z :: PATCH /api/v1/customers/2
+2022-02-09T11:08:14.343Z :: GET /api/v1/customers
+2022-02-09T11:08:14.420Z :: POST /api/v1/bills
+2022-02-09T11:08:14.491Z :: GET /api/v1/customers
+2022-02-09T11:08:18.022Z :: PATCH /api/v1/customers/2
+2022-02-09T11:08:18.029Z :: GET /api/v1/customers
+2022-02-09T11:08:18.115Z :: POST /api/v1/bills
+2022-02-09T11:08:18.174Z :: GET /api/v1/customers
+2022-02-09T11:08:21.952Z :: PATCH /api/v1/customers/2
+2022-02-09T11:08:21.958Z :: GET /api/v1/customers
+2022-02-09T11:08:22.041Z :: POST /api/v1/bills
+2022-02-09T11:08:22.120Z :: GET /api/v1/customers
+2022-02-09T11:08:25.317Z :: PATCH /api/v1/customers/2
+2022-02-09T11:08:25.327Z :: GET /api/v1/customers
+2022-02-09T11:08:25.351Z :: POST /api/v1/bills
+2022-02-09T11:08:25.354Z :: price: must be integer
+2022-02-09T11:13:04.648Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-09T11:13:38.529Z :: PATCH /api/v1/customers/4
+2022-02-09T11:13:39.216Z :: GET /api/v1/customers
+2022-02-09T11:13:40.034Z :: POST /api/v1/bills
+2022-02-09T11:13:40.131Z :: GET /api/v1/customers
+2022-02-09T11:13:44.357Z :: PATCH /api/v1/customers/4
+2022-02-09T11:13:44.376Z :: GET /api/v1/customers
+2022-02-09T11:13:44.406Z :: POST /api/v1/bills
+2022-02-09T11:13:44.607Z :: GET /api/v1/customers
+2022-02-09T11:13:48.608Z :: PATCH /api/v1/customers/4
+2022-02-09T11:13:48.620Z :: GET /api/v1/customers
+2022-02-09T11:13:48.644Z :: POST /api/v1/bills
+2022-02-09T11:13:48.730Z :: GET /api/v1/customers
+2022-02-09T11:13:53.273Z :: PATCH /api/v1/customers/4
+2022-02-09T11:13:53.283Z :: GET /api/v1/customers
+2022-02-09T11:13:53.388Z :: POST /api/v1/bills
+2022-02-09T11:13:53.474Z :: GET /api/v1/customers
+2022-02-09T11:13:56.327Z :: PATCH /api/v1/customers/4
+2022-02-09T11:13:56.338Z :: GET /api/v1/customers
+2022-02-09T11:13:56.431Z :: POST /api/v1/bills
+2022-02-09T11:13:56.503Z :: GET /api/v1/customers
+2022-02-09T11:14:00.721Z :: PATCH /api/v1/customers/4
+2022-02-09T11:14:00.730Z :: GET /api/v1/customers
+2022-02-09T11:14:00.825Z :: POST /api/v1/bills
+2022-02-09T11:14:00.902Z :: GET /api/v1/customers
+2022-02-09T11:14:03.968Z :: PATCH /api/v1/customers/4
+2022-02-09T11:14:03.977Z :: GET /api/v1/customers
+2022-02-09T11:14:04.044Z :: POST /api/v1/bills
+2022-02-09T11:14:04.094Z :: GET /api/v1/customers
+2022-02-09T11:14:07.985Z :: PATCH /api/v1/customers/4
+2022-02-09T11:14:07.995Z :: GET /api/v1/customers
+2022-02-09T11:14:08.067Z :: POST /api/v1/bills
+2022-02-09T11:14:08.143Z :: GET /api/v1/customers
+2022-02-09T11:14:13.623Z :: PATCH /api/v1/customers/4
+2022-02-09T11:14:13.634Z :: GET /api/v1/customers
+2022-02-09T11:14:13.697Z :: POST /api/v1/bills
+2022-02-09T11:14:13.781Z :: GET /api/v1/customers
+2022-02-09T11:18:01.491Z :: GET /api/v1/customers
+2022-02-09T11:18:01.675Z :: GET /api/v1/customers
+2022-02-09T11:33:49.730Z :: Klika-expenses-tracker-api is listening on port 4000
+2022-02-09T11:34:32.070Z :: POST /api/v1/login
+2022-02-09T11:34:32.929Z :: GET /api/v1/customers
+2022-02-09T11:34:44.654Z :: POST /api/v1/customers
+2022-02-09T11:34:45.359Z :: GET /api/v1/customers
+2022-02-09T11:36:55.913Z :: PATCH /api/v1/customers/1
+2022-02-09T11:36:55.946Z :: GET /api/v1/customers
+2022-02-09T11:36:55.970Z :: POST /api/v1/bills
+2022-02-09T11:36:56.081Z :: GET /api/v1/customers
+2022-02-09T11:37:11.807Z :: PATCH /api/v1/customers/1
+2022-02-09T11:37:11.817Z :: GET /api/v1/customers
+2022-02-09T11:37:11.845Z :: POST /api/v1/bills
+2022-02-09T11:37:11.953Z :: GET /api/v1/customers
+2022-02-09T11:37:15.062Z :: PATCH /api/v1/customers/1
+2022-02-09T11:37:15.072Z :: GET /api/v1/customers
+2022-02-09T11:37:15.137Z :: POST /api/v1/bills
+2022-02-09T11:37:15.179Z :: GET /api/v1/customers
+2022-02-09T11:37:18.065Z :: PATCH /api/v1/customers/1
+2022-02-09T11:37:18.074Z :: GET /api/v1/customers
+2022-02-09T11:37:18.139Z :: POST /api/v1/bills
+2022-02-09T11:37:18.183Z :: GET /api/v1/customers
+2022-02-09T11:37:23.168Z :: PATCH /api/v1/customers/1
+2022-02-09T11:37:23.178Z :: GET /api/v1/customers
+2022-02-09T11:37:23.240Z :: POST /api/v1/bills
+2022-02-09T11:37:23.278Z :: GET /api/v1/customers
+2022-02-09T11:37:27.284Z :: PATCH /api/v1/customers/1
+2022-02-09T11:37:27.291Z :: GET /api/v1/customers
+2022-02-09T11:37:27.371Z :: POST /api/v1/bills
+2022-02-09T11:37:27.425Z :: GET /api/v1/customers
+2022-02-09T11:37:30.895Z :: PATCH /api/v1/customers/1
+2022-02-09T11:37:30.905Z :: GET /api/v1/customers
+2022-02-09T11:37:30.964Z :: POST /api/v1/bills
+2022-02-09T11:37:31.002Z :: GET /api/v1/customers
+2022-02-09T11:37:34.396Z :: PATCH /api/v1/customers/1
+2022-02-09T11:37:34.405Z :: GET /api/v1/customers
+2022-02-09T11:37:34.430Z :: POST /api/v1/bills
+2022-02-09T11:37:34.572Z :: GET /api/v1/customers
+2022-02-09T11:37:37.543Z :: PATCH /api/v1/customers/1
+2022-02-09T11:37:37.551Z :: GET /api/v1/customers
+2022-02-09T11:37:37.575Z :: POST /api/v1/bills
+2022-02-09T11:37:37.660Z :: GET /api/v1/customers
+2022-02-09T11:37:41.908Z :: PATCH /api/v1/customers/1
+2022-02-09T11:37:41.915Z :: GET /api/v1/customers
+2022-02-09T11:37:41.973Z :: POST /api/v1/bills
+2022-02-09T11:37:42.016Z :: GET /api/v1/customers
+2022-02-09T11:38:01.004Z :: DELETE /api/v1/customers/1
+2022-02-09T11:38:11.921Z :: POST /api/v1/customers
+2022-02-09T11:38:11.959Z :: GET /api/v1/customers
+2022-02-09T11:38:21.206Z :: PATCH /api/v1/customers/2
+2022-02-09T11:38:21.245Z :: GET /api/v1/customers
+2022-02-09T11:45:52.708Z :: GET /api/v1/customers
+2022-02-09T11:59:30.753Z :: uncaughtException: options.port should be >= 0 and < 65536. Received .
+RangeError [ERR_SOCKET_BAD_PORT]: options.port should be >= 0 and < 65536. Received .
+    at new NodeError (node:internal/errors:371:5)
+    at validatePort (node:internal/validators:216:11)
+    at Server.listen (node:net:1461:5)
+    at Function.listen (C:\Users\Hare\Desktop\carwash-api\node_modules\express\lib\application.js:618:24)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/index.js:34:20
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-09T11:59:41.628Z :: uncaughtException: options.port should be >= 0 and < 65536. Received .
+RangeError [ERR_SOCKET_BAD_PORT]: options.port should be >= 0 and < 65536. Received .
+    at new NodeError (node:internal/errors:371:5)
+    at validatePort (node:internal/validators:216:11)
+    at Server.listen (node:net:1461:5)
+    at Function.listen (C:\Users\Hare\Desktop\carwash-api\node_modules\express\lib\application.js:618:24)
+    at file:///C:/Users/Hare/Desktop/carwash-api/src/index.js:34:20
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2022-02-09T12:00:04.588Z :: Carwash api is listening on port 4000

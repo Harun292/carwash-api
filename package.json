@@ -1,0 +1,29 @@
+{
+    "name":"carwash-api",
+    "version":"1.0.0",
+    "description":"",
+    "main":"index.js",
+    "type": "module",
+    "scripts":{
+        "start":"node src/index.js",
+        "migrate:make":"knex migrate:make --knexfile src/knexfile.js",
+        "migrate:run":"knex migrate:latest --knexfile src/knexfile.js",
+        "migrate:status":"knex migrate:currentVersion --knexfile src/knexfile.js",
+        "seed:make":"knex seed:make --knexfile src/knexfile.js",
+        "seed:run":"knex seed:run --knexfile src/knexfile.js"
+    },
+    "dependencies":{
+        "bcryptjs":"^2.4.3",
+         "cors":"^2.8.5",
+        "dotenv":"^16.0.0",
+        "eslint":"^8.8.0",
+        "express":"^4.17.2",
+        "express-validator":"^6.14.0",
+        "helmet":"^5.0.2",
+        "jsonwebtoken":"^8.5.1",
+        "knex":"^1.0.2",
+        "objection":"^3.0.1",
+        "pg":"^8.7.3",
+        "winston":"^3.5.1"
+    }
+}
